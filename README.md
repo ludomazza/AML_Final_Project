@@ -6,3 +6,5 @@ Group members:
 - Ludovica Mazza
 - Matteo Rampolla
 - Daniele Solombrino
+
+For more information about the code, look in the Astronauts-Making-Limoncello-organization. 
